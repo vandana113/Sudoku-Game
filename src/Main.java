@@ -35,26 +35,4 @@ public class Main extends JFrame {
 		//pack();
 		setVisible(true);
 	}
-
-//	private void menu() {
-//		JMenuBar menuBar = new JMenuBar();
-//
-//		JMenu diffculty = new JMenu("Diffculty");
-//		JMenuItem easy = new JMenuItem("Easy");
-//		JMenuItem medium = new JMenuItem("Medium");
-//		JMenuItem hard = new JMenuItem("Hard");
-//		diffculty.add(easy);
-//		diffculty.add(medium);
-//		diffculty.add(hard);
-//		menuBar.add(diffculty);
-//
-//		JMenu about = new JMenu("About");
-//		JMenuItem game = new JMenuItem("About the Game");
-//		JMenuItem rules = new JMenuItem("Rules");
-//		about.add(game);
-//		about.add(rules);
-//		menuBar.add(about);
-//
-//	}
-
 }
